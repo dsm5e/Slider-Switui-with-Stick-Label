@@ -3,6 +3,7 @@ Distance slider with custom top value label
 
  | Move Slider Value with Thumb  |
 | ------------- |
-| ![ezgif com-resize](https://github.com/dsm5e/SliderValueLabel/assets/88927934/40e9f366-e41e-4734-ad2d-0808d7a5fcca) | 
+| ![ezgif com-resize](https://github.com/dsm5e/SliderValueLabel/assets/88927934/21603df0-0c54-476b-816c-00964d0d5593) | 
+
 
 
