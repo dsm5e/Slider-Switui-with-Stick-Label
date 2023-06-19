@@ -1,5 +1,5 @@
 # Slider
-Distance slider with custom top value label
+Distance slider with stick value label
 
  | Move Slider Value with Thumb  |
 | ------------- |
